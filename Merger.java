@@ -2,7 +2,7 @@
   *  Name: Rohan Dhoopar
   *  Email: rdhoopar@princeton.edu
   *  School: Princeton University
-  *  Class Year: 2019s
+  *  Class Year: 2019
   *  Description: Given any number of streams, this program merges the streams
   *  into one and prints all elements in sorted order. 
   ******************************************************************************/
